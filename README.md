@@ -8,3 +8,6 @@ Installation is easy, just use `go get`:
 
 ### Usage
 View [example/example.go](/example/example.go), or read the docs on [godoc.org/github.com/GeertJohan/go.btcqr](https://godoc.org/github.com/GeertJohan/go.btcqr)
+
+### License
+This package is licensed under the ISC license. For more information view the [LICENSE](/LICENSE) file.
