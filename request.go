@@ -2,10 +2,11 @@ package btcqr
 
 import (
 	"bytes"
-	"code.google.com/p/rsc/qr"
 	"errors"
 	"net/url"
 	"strconv"
+
+	"rsc.io/qr"
 )
 
 var (

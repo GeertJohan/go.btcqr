@@ -1,9 +1,11 @@
 package main
 
 import (
-	"github.com/GeertJohan/btcqr"
 	"log"
 	"os"
+
+	"github.com/GeertJohan/btcqr"
+	// btcqr ".."
 )
 
 func main() {
